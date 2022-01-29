@@ -2,7 +2,7 @@
 
 ### Performance Comparison
 
-### Size of an array Min. Value Max. Value
+### Size of an array     Min. Value     Max. Value
 
 5 1000 100000000 <br />
 bubble_sort took: 2 microseconds <br />
